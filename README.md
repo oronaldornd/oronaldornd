@@ -9,3 +9,4 @@ I'm a trained automotive mechanic and a passionate technology enthusiast, always
 - C++
 - Golang  
 - Java
+- Linux
