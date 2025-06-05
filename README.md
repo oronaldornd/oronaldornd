@@ -10,4 +10,7 @@ I'm a trained automotive mechanic and a passionate technology enthusiast, always
 - Golang  
 - Java
 - Linux
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oronaldornd&show_icons=true&locale=en&layout=compact" alt="oronaldornd" /></p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oronaldornd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox&hide_border=false" height="150" alt="languages graph"  />
+</div>
