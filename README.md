@@ -10,3 +10,4 @@ I'm a trained automotive mechanic and a passionate technology enthusiast, always
 - Golang  
 - Java
 - Linux
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oronaldornd&show_icons=true&locale=en&layout=compact" alt="oronaldornd" /></p>
